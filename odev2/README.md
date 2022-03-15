@@ -1,7 +1,7 @@
 # Patika Dev Koleksiyon Ödevi
 Patika Dev üzerindeki C# eğitimindeki Koleksiyon ödevine ait sorulardır.
 
-Sorular:
+##Sorular:
 
 Soru - 1: Klavyeden girilen 20 adet pozitif sayının asal ve asal olmayan olarak 2 ayrı listeye atın. (ArrayList sınıfını kullanara yazınız.)
 
